@@ -1,0 +1,12 @@
+# requirements for part 1 and 2
+torch>=2.0.0
+torchvision>=0.15.0
+numpy
+Pillow
+tqdm
+matplotlib
+pyyaml==6.0.2
+
+# requirements for YOLOv8 part 2 
+opencv-python
+ultralytics
