@@ -193,4 +193,10 @@ The final dataset contains:
 
 ---
 
+## 📊 Presentation and Results
+
+Detailed information about our methodology, experiments, and final results can be found in our project presentation:
+[View Project Presentation (Google Drive)](https://drive.google.com/file/d/1Sd2_wMA-6koPYTUuXsrlSDvrcTzxo-De/view?usp=sharing)
+
+---
 This project is a Deep Learning Class Project developed by Barış Çelik and Sude Naz Öztürk. All ideas and contributions are shared equally.
